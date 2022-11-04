@@ -1,7 +1,7 @@
 enabled: true
 key-store: classpath:keystore/localhost.p12
 key-store-type: PKCS12
-key-store-password: 134679
+key-store-password: 111111111
 key-password: 134679
 trust-store: classpath:keystore/trustlocalhost.p12
 trust-store-type: PKCS12
