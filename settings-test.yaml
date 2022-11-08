@@ -5,4 +5,4 @@ key-store-password: 111111111
 key-password: 134679
 trust-store: classpath:keystore/trustlocalhost.p12
 trust-store-type: PKCS12
-trust-store-password: 134679
+trust-store-password: 111111
